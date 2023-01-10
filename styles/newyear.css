@@ -1,13 +1,20 @@
-.titel1{
-    
-
+* {
+    margin: 0;
+    font-family:'work sans'
 }
+.body{
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    
+}
+
 .nav-title-1{
     position: absolute;
     width: 494px;
 height: 78px;
 left: 876px;
 top: 468px;
+
 }
 .btn-primary{
     position: absolute;
@@ -15,6 +22,8 @@ width: 160px;
 height: 64px;
 left: 1210px;
 top: 578px;
+color: #FFFFFF;
+background: #F15B22;
 }
 .nav-title{
     position: absolute;
@@ -27,4 +36,102 @@ font-weight: 700;
 font-size: 50px;
 
 text-align: right;
+}
+.secton{
+    background-color: antiquewhite;
+}
+.person{
+    color: peru;
+    position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+
+
+}
+.simple{
+    position: absolute;
+width: 416px;
+height: 393px;
+left: 862px;
+top: 1178px;
+}
+
+.previous{
+    color: #151414;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 47px;
+
+}
+.lorem{
+    color: #444343;
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 26px;
+}
+.popular{
+    color: #444343;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px
+    
+}
+.plan{
+    position: absolute;
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1792.3px;
+color: #151414;
+}
+.about-info{
+    position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+top: 1792.3px;
+display: flex;
+}
+.info-title{
+    color: #151414;
+    font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
+margin-right: 5px;
+
+
+}
+.info-describe{
+    color: #737272;
+    font-weight: 500;
+font-size: 25px;
+line-height: 29px
+  
+}
+.plan{
+    color: #151414;
+    ont-weight: 700;
+font-size: 40px;
+line-height: 47px;
+    
+     
+}
+.about-info{
+    left: 300px;
+top: 1880px;
+}
+.about-info-container{
+    font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-align: center;
 }
