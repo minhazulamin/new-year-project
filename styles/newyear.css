@@ -93,6 +93,7 @@ top: 1792.3px;
 color: #151414;
 }
 .about-info{
+    justify-content: space-around;
     position: absolute;
 width: 1141px;
 height: 299.96px;
@@ -130,8 +131,81 @@ line-height: 47px;
 top: 1880px;
 }
 .about-info-container{
+    
+}
+/* .positive{
+    background-image: url(../images/watch.png);
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2399.26px;
+}
+.mindset{
     font-weight: 700;
-font-size: 30px;
-line-height: 35px;
-text-align: center;
+font-size: 40px;
+line-height: 47px;
+
+
+}
+.btn-naw{
+    
+width: 160px;
+height: 64px;
+left: 294px;
+top: 2399.26px;
+} */
+
+.fifth-section{
+
+}
+.fifth-div{
+    position: absolute;
+    background-image: url(../images/watch.png);
+    margin-top: 130px;  
+    width: 1140px;
+    height: 300px;
+    left: 290px;;
+}
+.fifth-header{
+    position: absolute;
+    text-align: left;
+    margin-left: 64px;
+    top: 60px;
+}
+.fifth-head{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+.fifth-head{
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+.btn-mary{
+
+}
+.fifth-section{
+    position: absolute;
+    justify-content: space-around;
+    width: 140px;
+    height: 200px;
+    left: 190px;
+    top: 2222.26px;
+    border-radius: 8px;
+    
+}
+.foot{
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2652.26px;
+background-color:#151414;
+}
+.future{
+    color: #F8F8F8;
 }
